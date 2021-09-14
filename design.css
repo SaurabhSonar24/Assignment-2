@@ -1,0 +1,121 @@
+.n1{
+    margin-left: 280px;
+}
+.smlmain{
+    margin-top: 28px;  
+    margin-bottom: 28px;
+}
+.smlsub{
+    text-align: center;   
+}
+.nav2{
+    height: 50px;   
+}
+.b1{
+  background-color: #f8f9fa;
+}
+.b1:hover{
+    color: turquoise;
+    background-color: #f8f9fa;
+}
+.imgbx{
+    padding-top: 15px;
+    height: 180px;
+}
+.mainbx2{
+    margin-top: 28px;
+    background-color:#f8f9fa ;
+}
+.bdr{
+    border: none;
+}
+.blk2{
+   padding-left: 40px;
+}
+.mar{
+    margin-top: 28px;
+}
+.insta{
+    height: 185px;
+}
+.adver{
+    height:150px;
+}
+.blkclr{
+    background-color: white;
+}
+
+.icon:hover{
+    background-color: rgb(187, 255, 248);
+    transform: scale(1.5);
+}
+.imgbrdr{
+    border: solid 1px rgb(233, 230, 220);
+}
+.footbg{
+    background: url(Images/footerback.jpg);
+    height: 800px;
+    width: 1289px;
+    margin-left: 16px;
+}
+#d1{
+    float: left;
+    background-color: rgb(51, 29, 175);
+    height: 50px;
+    width: 20%;
+    text-align: center;
+    padding-top: 12px
+}
+#d2{
+    float: left;
+    height: 50px;
+    width: 20%;
+    text-align: center;
+    padding-top: 12px
+}
+#d3{
+    float: left;
+    background-color: rgb(245, 14, 226);
+    height: 50px;
+    width: 20%;
+    text-align: center;
+    padding-top: 12px
+}
+#d4{
+    float: left;
+    background-color: rgb(250, 135, 235);
+    height: 50px;
+    width: 20%;
+    text-align: center;
+    padding-top: 12px
+}
+#d5{
+    float: right;
+    height: 50px;
+    width: 20%;
+    text-align: center;
+    padding-top: 12px
+}
+#d1:hover{
+    transform: scale(1.2);
+}
+#d2:hover{
+    transform: scale(1.2);
+}
+#d3:hover{
+    transform: scale(1.2);
+}
+#d4:hover{
+    transform: scale(1.2);
+}
+#d5:hover{
+    transform: scale(1.2);
+}
+.clr{
+    float: none;
+}
+.money{
+    color: red;
+}
+
+
